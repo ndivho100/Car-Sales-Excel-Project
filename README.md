@@ -14,13 +14,13 @@ I used MS Excel to do data cleaning and creating report
 - Handling missing values
 - Data formatting and cleaning
   
-### Exploratoxy Data analysis
+### Exploratory Data analysis
 Data exploration to answer key questions such as
 - What is the Overall sales trend?
 - Which Age group is buying cars the most?
 - Does people prefer buying car in cash or installment?
 
-###Results of the analysis
+### Results of the analysis
 - Adults is the age group that is buying more cars
 - Male gender is the one buying lot of the cars
 - When marketing cars the target should be adults
